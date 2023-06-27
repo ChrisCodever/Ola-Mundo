@@ -3,4 +3,4 @@
 
  Repositório criado assistindo curso Guanabara .
 
-A Linha 5, foialterada  diretamnte do site github . 
+A Linha 5, foi alterada diretamnte do site github . 
